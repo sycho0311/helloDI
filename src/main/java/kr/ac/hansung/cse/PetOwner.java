@@ -10,7 +10,7 @@ public class PetOwner {
 
 	/*
 	// 스프링컨테이너를 통해 Bean을 설정 및 생성, 관리 
-	// 생성자를 통해  미리 설정한 AnimalType 값으로 주입시킨다.
+	// 생성자를 통해 미리 설정한 AnimalType 값으로 주입시킨다.
 	public PetOwner(AnimalType animal) {
 		super();
 		this.animal = animal;
